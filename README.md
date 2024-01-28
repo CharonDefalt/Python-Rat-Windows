@@ -1,6 +1,6 @@
 # Python-Rat-Windows
 
-Use the Obf-B.py
+Use the obf-backdoor.py
 
 Change IP in client backdoor.py 
 
